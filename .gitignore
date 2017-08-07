@@ -21,3 +21,6 @@ temp/
 
 *.png
 *.jpg
+*.ico
+
+.DS_Store

@@ -1,4 +1,4 @@
-# Bones
+# Growth
 Growth Theme
 
 #### Description
